@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=pseudokawaii&show_icons=true&theme=dark&cache_seconds=3000&include_all_commits=true&count_private=true&show_owner=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=pseudokawaii&show_icons=true&theme=dark&cache_seconds=1800&include_all_commits=true&count_private=true&show_owner=true">
 </p>
 <!--
 **pseudokawaii/pseudokawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
